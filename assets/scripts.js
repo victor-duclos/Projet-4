@@ -1,13 +1,13 @@
 const imagesData = [
-    { src: 'assets/images/aaron-paul-wnX-fXzB6Cw-unsplash.jpg-small.jpg', dataset: {galleryTag:'Concert' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo concert'},
-    { src: 'assets/images/ali-morshedlou-WMD64tMfc4k-unsplash.jpg-small.jpg', dataset: {galleryTag:'Entreprises' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo entreprise'},
-    { src: 'assets/images/jason-goodman-tHO1_OuKbg0-unsplash.jpg-small.jpg', dataset: {galleryTag:'Entreprises' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo entreprise'},
-    { src: 'assets/images/hannah-busing-RvF2R_qMpRk-unsplash.jpg-small.jpg', dataset: {galleryTag:'Mariages' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo mariage'},
-    { src: 'assets/images/ade-tunji-rVkhWWZFAtQ-unsplash.jpg-small.jpg', dataset: {galleryTag:'Portrait' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo portrait'},
-    { src: 'assets/images/jakob-owens-SiniLJkXhMc-unsplash.jpg-small.jpg', dataset: {galleryTag:'Mariages' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo mariage'},
-    { src: 'assets/images/nino-van-prattenburg--443cl1uR_8-unsplash.jpg-small.jpg', dataset: {galleryTag:'Portrait' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo portrait'},
-    { src: 'assets/images/austin-neill-hgO1wFPXl3I-unsplash.jpg-small.jpg', dataset: {galleryTag:'Concert' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo concert'},
-    { src: 'assets/images/mateus-campos-felipe-Fsgzm8N0hIY-unsplash.jpg-small.jpg', dataset: {galleryTag:'Entreprises' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo entreprise'},
+    { src: 'assets/images/aaron-paul-wnX-fXzB6Cw-unsplash.jpg-small.webp', dataset: {galleryTag:'Concert' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo concert'},
+    { src: 'assets/images/ali-morshedlou-WMD64tMfc4k-unsplash.jpg-small.webp', dataset: {galleryTag:'Entreprises' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo entreprise'},
+    { src: 'assets/images/jason-goodman-tHO1_OuKbg0-unsplash.jpg-small.webp', dataset: {galleryTag:'Entreprises' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo entreprise'},
+    { src: 'assets/images/hannah-busing-RvF2R_qMpRk-unsplash.jpg-small.webp', dataset: {galleryTag:'Mariages' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo mariage'},
+    { src: 'assets/images/ade-tunji-rVkhWWZFAtQ-unsplash.jpg-small.webp', dataset: {galleryTag:'Portrait' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo portrait'},
+    { src: 'assets/images/jakob-owens-SiniLJkXhMc-unsplash.jpg-small.webp', dataset: {galleryTag:'Mariages' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo mariage'},
+    { src: 'assets/images/nino-van-prattenburg--443cl1uR_8-unsplash.jpg-small.webp', dataset: {galleryTag:'Portrait' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo portrait'},
+    { src: 'assets/images/austin-neill-hgO1wFPXl3I-unsplash.jpg-small.webp', dataset: {galleryTag:'Concert' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo concert'},
+    { src: 'assets/images/mateus-campos-felipe-Fsgzm8N0hIY-unsplash.jpg-small.webp', dataset: {galleryTag:'Entreprises' , bsToggle: 'modal', bsTarget: '#exampleModalCenter'}, classList: 'gallery-item' , alt:'photo entreprise'},
 
 
     
