@@ -69,6 +69,7 @@ function genererModal(){
   modal.appendChild(modalImage);
   modalImage.classList.add("gallery-item");
   modalImage.style.position="unset";
+  modalImage.alt= event.target.alt;
   let images=document.querySelectorAll(".gallery-items-row .gallery-item");
   let index= Array.from(images).indexOf(event.target)
   console.log('Indice du bouton cliqué :', index);
